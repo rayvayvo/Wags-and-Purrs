@@ -1,0 +1,25 @@
+body {
+  background-image: url(catfeetwallpaper.jpeg);
+  background-size: cover;
+}
+
+#top_nav {
+  background-color: khaki;
+  height: 5vw;
+  text-align: center;
+  font-size: 3vw;
+  line-height: 4.5vw;
+}
+
+#nav_dropdown {
+  float: right;
+  margin-right: 1vw;
+  font-size: 2vw;
+  height: 4vw;
+  background-color: khaki;
+  border: none;
+}
+
+button#dropdownMenu1.btn.btn-default.dropdown-toggle {
+  background-color: khaki;
+}
